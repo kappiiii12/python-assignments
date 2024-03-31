@@ -14,4 +14,13 @@ a=10
 a=str(a)
 print(type(a))
 #solution 2
-
+a='A'
+print(ord(a))
+#solution 3
+print(chr(100))
+#solution 4
+a='10'
+print(type(int(a)))
+#solution 4
+a=10
+print(bool(a))
